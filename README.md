@@ -2,4 +2,4 @@ For this project we were to develop a command line application that allows the u
 
 A link to the repo can be found here: https://github.com/Jdusang1/Employee-Structure
 
-A link to the video walk through of the working application can be found here:
+A link to the video walk through of the working application can be found here: https://drive.google.com/file/d/1kuSZaRV2deJyj9ZJqXFhJpwSkRwnzM1l/view?usp=sharing
